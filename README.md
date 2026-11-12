@@ -85,11 +85,11 @@ Keterlibatan anggota dinilai. Tiap anggota sebaiknya mengerjakan bagiannya di br
 
 | Anggota | Bagian | Berkas utama |
 |---|---|---|
-| (nama 1) | Login, register, hashing, logout | `app/auth/`, `templates/auth/` |
-| (nama 2) | CRUD produk dan validasi form | `app/products/`, `app/forms.py` |
-| (nama 3) | Katalog, dashboard admin, hak akses | `app/main/`, `app/admin/`, `app/decorators.py` |
-| (nama 4) | Model, migration, logging, CLI | `app/models.py`, `migrations/`, `app/cli.py` |
-| (nama 5) | Tampilan dan tes | `templates/`, `static/`, `tests/` |
+| ( Raymond Hikaru ) | Login, register, hashing, logout | `app/auth/`, `templates/auth/` |
+| ( Angelic Christine ) | CRUD produk dan validasi form | `app/products/`, `app/forms.py` |
+| ( Helfrin Meylin ) | Katalog, dashboard admin, hak akses | `app/main/`, `app/admin/`, `app/decorators.py` |
+| ( Zelfin Dachi) | Model, migration, logging, CLI | `app/models.py`, `migrations/`, `app/cli.py` |
+| ( Mitra Parningotan) | Tampilan dan tes | `templates/`, `static/`, `tests/` |
 
 Alur kerja Git yang disarankan:
 ```bash
